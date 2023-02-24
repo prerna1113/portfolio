@@ -25,19 +25,19 @@ export const data = [
         live:"https://ritik73011.github.io/BluFly.com-Clone/",
   
     },
-    // {
-    //   title: "Big Basket-Clone",
-    //   description:
-    //     "This is a clone of www.bigbasket.com . An Online Platform for Booking filghts and hotels. A collaborative project by a group of 4 members. This Clone represents the original website from login to product searching including the search option. My key responsibility was to make sure the flow of the website and implement the sort , filter , search etc..",
-    //     img1:require("./../../Images/Screenshot (16).png"),
-    //     img2:require("./../../Images/Screenshot (15).png"),
-    //     img3:require("./../../Images/Screenshot (18).png"),
-    //     img4:require("./../../Images/Screenshot (19).png"),
-    //     techStacks:["HTML","CSS","JavaScript"],
-    //     github:"https://github.com/FaizanWani133/BigBasket-Clone/tree/main/MasaiKnights-Bigbasket",
-    //     live:"https://bigbasketclone2.netlify.app",
+    {
+      title: "PharmEasy-Clone",
+      description:
+        "This is a clone of www.pharmeasy.com . An Online Platform for Healthcare. This Clone represents the original website from login to product searching including the search option.This is an individual Project",
+        img1:require("./../../Images/Screenshot (16).png"),
+        img2:require("./../../Images/Screenshot (15).png"),
+        img3:require("./../../Images/Screenshot (18).png"),
+        img4:require("./../../Images/Screenshot (19).png"),
+        techStacks:["REACT JS","CHAKRA UI","EXPRESS","REDUX","JAVASCRIPT","MONGODB","NODEJS"],
+        github:"https://github.com/prerna1113/Pharmeasy-frontend",
+        live:"https://teampharmeasyclone.netlify.app/",
   
-    // },
+    },
     // {
     //   title: "Netflix Database",
     //   description:
