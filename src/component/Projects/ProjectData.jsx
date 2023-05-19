@@ -38,6 +38,19 @@ export const data = [
         live:"https://teampharmeasyclone.netlify.app/",
   
     },
+     {
+      title: "PharmEasy-Clone",
+      description:
+        "This is a clone of www.pharmeasy.com . An Online Platform for Healthcare. This Clone represents the original website from login to product searching including the search option.This is an individual Project",
+        img1:require("../images/p1.jpeg"),
+        img2:require("../images/p2.jpeg"),
+        img3:require("../images/p3.jpeg"),
+        img4:require("../images/p4.jpeg"),
+        techStacks:["REACT JS","CHAKRA UI","EXPRESS","REDUX","JAVASCRIPT","MONGODB","NODEJS"],
+        github:"https://github.com/prerna1113/Pharmeasy-frontend",
+        live:"https://teampharmeasyclone.netlify.app/",
+  
+    },
     // {
     //   title: "Netflix Database",
     //   description:
