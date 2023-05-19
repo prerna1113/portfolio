@@ -26,29 +26,16 @@ export const data = [
   
     },
     {
-      title: "PharmEasy-Clone",
+      title: "Bluefly-Clone",
       description:
-        "This is a clone of www.pharmeasy.com . An Online Platform for Healthcare. This Clone represents the original website from login to product searching including the search option.This is an individual Project",
-        img1:require("../images/p1.jpeg"),
-        img2:require("../images/p2.jpeg"),
-        img3:require("../images/p3.jpeg"),
-        img4:require("../images/p4.jpeg"),
-        techStacks:["REACT JS","CHAKRA UI","EXPRESS","REDUX","JAVASCRIPT","MONGODB","NODEJS"],
-        github:"https://github.com/prerna1113/Pharmeasy-frontend",
-        live:"https://teampharmeasyclone.netlify.app/",
-  
-    },
-     {
-      title: "PharmEasy-Clone",
-      description:
-        "This is a clone of www.pharmeasy.com . An Online Platform for Healthcare. This Clone represents the original website from login to product searching including the search option.This is an individual Project",
-        img1:require("../images/p1.jpeg"),
-        img2:require("../images/p2.jpeg"),
-        img3:require("../images/p3.jpeg"),
-        img4:require("../images/p4.jpeg"),
-        techStacks:["REACT JS","CHAKRA UI","EXPRESS","REDUX","JAVASCRIPT","MONGODB","NODEJS"],
-        github:"https://github.com/prerna1113/Pharmeasy-frontend",
-        live:"https://teampharmeasyclone.netlify.app/",
+        "This is a clone of www.bluefly.com . An Online Platform shopping for luxury brands. A collaborative project by a group of 5 members. This Clone represents the original website from login to product searching including the search option. My key responsibility was to make sure the flow of the website and implement the sort , filter , search etc..",
+        img1:require("../images/w1.jpeg"),
+        img2:require("../images/w2.jpeg"),
+        img3:require("../images/w4.jpeg"),
+        img4:require("../images/w2.jpeg"),
+        techStacks:["HTML","CSS","JavaScript","json-server"],
+        github:"https://github.com/Ritik73011/BluFly.com-Clone",
+        live:"https://ritik73011.github.io/BluFly.com-Clone/",
   
     },
     // {
