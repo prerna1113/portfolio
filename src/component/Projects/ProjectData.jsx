@@ -26,9 +26,9 @@ export const data = [
   
     },
     {
-      title: "Bluefly-Clone",
+      title: "Walmart Clone",
       description:
-        "This is a clone of www.bluefly.com . An Online Platform shopping for luxury brands. A collaborative project by a group of 5 members. This Clone represents the original website from login to product searching including the search option. My key responsibility was to make sure the flow of the website and implement the sort , filter , search etc..",
+        "This is a clone of www.walmart.com . An Online Platform shopping for luxury brands. A collaborative project by a group of 5 members. This Clone represents the original website from login to product searching including the search option. My key responsibility was to make sure the flow of the website and implement the sort , filter , search etc..",
         img1:require("../images/w1.jpeg"),
         img2:require("../images/w2.jpeg"),
         img3:require("../images/w4.jpeg"),
